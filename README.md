@@ -9,28 +9,28 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : No encuentro la luz en mis paredes
 
-**Autor(es)** ______________
+**Autor(es)** Ana Belén Diez González
 
-**Resumen** : _________
+**Resumen** : El decreto de Estado de Alarma, como medida para detener la propagación del Covid-19, ha dejado a millones de personas confinadas en sus casas. Dentro de estas casas hay tantas personas como diversidad de realidades. Para algunos adoptar las medidas de confinamiento es un contratiempo, sin embargo, para otros roza los límites de la locura. El aislamiento puede dar realidades muy distintas, y no ser consciente de ellas también es nocivo. Por ello, la intención de este proyecto es mostrar algunas de las distintas miradas de las que se conforma la pandemia, para así tener una visión más completa de este suceso. Entre estas realidades están presentes una casa en la que se encuentra una mujer junto a un maltratador, un conjunto de trabajadores "manteros" (vendedores ambulantes) sin recursos que viven juntos , dos personas mayores que vive sola y, finalmente, una casa en la que viven tres personas y una de ellas es dependiente de las otras dos.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Tu historia también cuenta
 
-**Hashtag**  ___
+**Hashtag** #NoRomantizoLaCuarentena #YoMeConciencioEnCasa
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** CC BY    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2020
 
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
+*  :octocat: https://github.com/AnaBelen-dgv/PeriodismoMultimedia_Template/edit/master/README.md
 * Twitter 
-* ... 
+* Página Web (Wix)
 
 
 
@@ -46,23 +46,20 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* @LadyDistopia (https://twitter.com/LadyDistopia) es un buen ejemplo en el que se ve como una narración transmedia puede desarollarse perfectamente al difundirse en una comunidad como la de Twitter.
+* #TeVi (http://www.lineazerometro.com/linea-zero)es una iniciativa impulsada por la Comunidad de Madrid en la que los pasajeros de estas líneas pueden twittear lo que en algún momento quisieron decirle a alguien con quien se cruzaron en el metro y no se atrevieron.
+El proyecto muestra lo importante que es coincidir en los que pensamos, sentimos y hacemos cuando el terreno en el que nos desenvolvemos es tan grande como para conseguir que todos los que allí coinciden se sientan representados en las historias que se cuentan. Para mostarar esto hace uso tanto de twitter como de la página web de "lineazerometro".
+* Lorca360º (http://utopolis.ugr.es/media/lorca360/) es un proyecto que muestra las oportunidades que ofrece la realidad virtual y la fotografía 360 para contar una historia, en este caso la de Federico García Lorca. A tarvés del ordenador, el usuario puede descubrir los lugares vitales del mencionado poeta.
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** Este proyecto cumple la necesidad de dar voz a aquellas personas cuyo confinamiento está siendo especialmente complicado. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** El aislamiento puede dar realidades muy distintas, y no ser consciente de ellas también es nocivo. Es importante que una situación, como la del confinamiento por el Covid19, que va a atener trascendencia en épocas posteriores, se puede ver desde una perspectiva que represente a todos y no sólo a unos pocos.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios** El público objetivo es bastante amplio, ya que es un suceso mundial. Podría decirse que el usuario al que va dirigido a las generaciones mas cercanas a la tecnología puesto que se necits un mínimo de conocimiento tecnoñógico para poder acceder al proyecto.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Estilo de narración** La narrativa literaria sería publicada en Wix y Twitter, toma forma a través de la fotografía 360. La identificacion de la escena se lleva a cabo a través de la geolocalización, añadiendo contenido con el que se puede interectuar con puntos calientes de hiper-enlace y música bidireccional. Además, se busca que el usuario pueda aportar información sobre su experiencia para que, posteriormente, pueda pasar a fomar parte como un nuevo relato de confinamiento.
 
 
 
