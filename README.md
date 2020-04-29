@@ -29,8 +29,8 @@ Univesidad de Granada
 
 
 *  :octocat: https://github.com/AnaBelen-dgv/PeriodismoMultimedia_Template/edit/master/README.md
-* Twitter 
-* Página Web (Wix)
+* Twitter : https://twitter.com/no_paredes
+* Página Web (Wix): https://anabelendgv.wixsite.com/noencuentrolaluz
 
 
 
@@ -71,7 +71,7 @@ El proyecto muestra lo importante que es coincidir en los que pensamos, sentimos
 
 Todas las ilustraciones utilizadas en este proyecto han sido cogidas de https://www.freepik.es/freepik, página en la que se ofrecen recursos gráficos gratis para la creación de proyectos.
 
-* redes sociales. La red utilizada ha sido twitter puesto que es un medio que dispone de las herramientas y visbilización necesaria para publicar una narrativa literaria de este estilo. Mediante un hilo el usuario puede tanto ver y disfutar de las hitorias como participar e interaccionar con ellas bajo los hashtags #NoRomantizoLaCuarentena #NoEncuentroLaLuz. 
+* redes sociales. La red utilizada ha sido twitter puesto que es un medio que dispone de las herramientas y visbilización necesaria para publicar una narrativa literaria de este estilo. Mediante un hilo el usuario puede tanto ver y disfutar de las hitorias como participar e interaccionar con ellas bajo los hashtags #NoRomantizoLaCuarentena #NoEncuentroLaLuz. https://twitter.com/no_paredes
 
 Tanto la pestaña de "tu historia" que pertenece a la página web como la página oficial de Twitter están relaciadas para que el usuario pueda ver que la narrativa se lleva a cabo en ambos espacios. Además la página web puede ser vista desde el ordenador y desde el dispositivo móvil. De este modo, se facilita al usuario la búsqueda de la narrativa, así como se enriquece el posicionamiento SEP de la página web.
 Además, a través del correo de noencuentroluzenlasparedes@outlook.es, también se recibe información de los usuarios.
