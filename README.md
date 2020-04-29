@@ -97,6 +97,8 @@ Pese a ello, considero que lo que se entiente esctritamebte por contenido del pr
 
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
+El proyecto ofrece una narrativa que, de un modo u otro, está vinculada a toda la ciudadanía puesto que el Covid 19 ha afectado a nivel mundial. Además, el proyecto busca que haya una colaboración con el usuario al elaborar y hacer crecer el contenido. Esta colaboración es ofrecida por distintos medios para que el usuario pueda elegir con el que se siente más cómodo, ya sea twitter, e-mail o a través del correo de facilita la propia página web.
+La narrativa que se encuentra en la página web se ofrece tanto para ordenador como para dispositivo móvil, lo que facilita el acceso a aquella parte de la población que no sabe relacionarse adecuadamente con el ordenador.
 
 Referencias y recursos: 
 
