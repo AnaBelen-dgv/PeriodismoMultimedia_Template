@@ -86,23 +86,25 @@ Por un lado la página web, pese que en este caso tiene un formato simple y aseq
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Problemas identificados 
+Principalmente, he econtrado dos problemas, por un lado, la fotografía 360, la cual, además de no poder reazliarla por la situación actual en la que nos encontramos, me ha parecido especialmente complicada al elegirla para este proyecto, ya que tendría que realizar una fotografía 360 por cada relato, por lo que habría qu encontrar cuatro casas distintas que pudiesen fotografiarse y arreglarse para que la indumentaria de la casa fuese acorde al relato que se le asocie. Por otro lado, la elaboración de la página web, esta es demasiado sencilla como para poder llamar la atención por sí misma, además me hubiese gustado poder elaborar unas ilustraciones, que de algún modo, representasen con mayor fidelidad la historia que se intenta contar y lo que hay detrás de esta historia y situación. Sin embargo, debido al tiempo y a mis conocimientos, esto no ha sido posible.
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+
+Como prouestas de mejora estbalcería el hecho de poder tener unas ilustraciones propias y representativas del poryecto, así como tener presencia en medios masificados como Instagram. Además, tendrías que realizarse las fotografías 360 mencionadas
+
+Pese a ello, considero que lo que se entiente esctritamebte por contenido del proyecto es abarcable y viable, además de que cumple con un objetivo tan fundamental como vsibilizar aquellas realidades que normativamente no son mostradas, indepedientemente de que este tipo de realidades sean más cercanas a un ciudadano corriente que la realidad que abraza un futbolista o similares.
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
+Freepik
+Wix
+Twitter
+Pinterest
+Lab.pikaramagazine (https://lab.pikaramagazine.com/category/vecinas/)
 
 
 ----
