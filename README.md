@@ -119,11 +119,6 @@ Lab.pikaramagazine (https://lab.pikaramagazine.com/category/vecinas/)
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
 
 
 
