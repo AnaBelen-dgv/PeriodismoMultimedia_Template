@@ -9,7 +9,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : No encuentro la luz en mis paredes
+**Titulo** : No encuentro luz en las paredes
 
 **Autor(es)** Ana Belén Diez González
 
@@ -19,7 +19,7 @@ Univesidad de Granada
 
 **Slogan** (frase motivadora/inspiradora): Tu historia también cuenta
 
-**Hashtag** #NoRomantizoLaCuarentena #YoMeConciencioEnCasa
+**Hashtag** #NoRomantizoLaCuarentena #NoEncuentroLaLuz
 
 **Licencia** CC BY    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -67,23 +67,20 @@ El proyecto muestra lo importante que es coincidir en los que pensamos, sentimos
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Página Web: se ha creado un portal web para poder agrupar dentro de ese espacio todas las publicaciones que estén relacionadas con el contenido del proyecto de "No encuentro luz en las paredes". En el menú se divide en cuatro elementos: Inicio, El barrio, Tu historia y Quiénes somos. En la pestaña de "El barrio" es el espacio en el que están presentes las primeras cuatro historias con las que se inicia el proyecto, del mismo modo, en este pestaña es en dónde se irán añadiendo las nuevas historias que sean creadas bien por la autora del proyecto o bien por los usuarios que quieran colaborar al aportar su propia historia. Al pinchar sobre la imagen un hipernelace redirige a una fotografía 360 en la que, de manera literaria, se relata la historia que ha acintecido en aquella casa. La pestaña de "Tu historia" es el lugar en el que se informa a los usuarios de que pueden aportar su propia historia para que esta sea relatada en el proyecto y los medios por los cuales pueden llevarlo a cabo. De esta manera se incrementa el apoyo al objetivo principal del proyecto de dar voz a aquellas personas cuyo confinamiento está siendo especialmente complicado y cuya historia no está siendo visbilizada. En la siguiente pestaña, ña de "Quiénes somos" se explica el proyecto y el objetivo que este tiene. https://anabelendgv.wixsite.com/noencuentrolaluz
 
-* redes sociales (...) 
+Todas las ilustraciones utilizadas en este proyecto han sido cogidas de https://www.freepik.es/freepik, página en la que se ofrecen recursos gráficos gratis para la creación de proyectos.
 
-* publicidad: banner (... ) 
+* redes sociales. La red utilizada ha sido twitter puesto que es un medio que dispone de las herramientas y visbilización necesaria para publicar una narrativa literaria de este estilo. Mediante un hilo el usuario puede tanto ver y disfutar de las hitorias como participar e interaccionar con ellas bajo los hashtags #NoRomantizoLaCuarentena #NoEncuentroLaLuz. 
 
-* ...
+Tanto la pestaña de "tu historia" que pertenece a la página web como la página oficial de Twitter están relaciadas para que el usuario pueda ver que la narrativa se lleva a cabo en ambos espacios. Además la página web puede ser vista desde el ordenador y desde el dispositivo móvil. De este modo, se facilita al usuario la búsqueda de la narrativa, así como se enriquece el posicionamiento SEP de la página web.
+Además, a través del correo de noencuentroluzenlasparedes@outlook.es, también se recibe información de los usuarios.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
+Por un lado la página web, pese que en este caso tiene un formato simple y asequible, por lo que el portal no ofrece un análisis en profundidad de la reacción que está teniendo el usuario, esta ofrece elementos en los que se puede ver si al usuario le ha gustado la narrativa, que opina sobre esta y si le ha gustando lo suficiente como para compartirla. Del mismo modo, Twitter facilita que se pueda medir el tipo de recibimiento que está teniendo para los usuarios y como este incrementa o por el contrario disminuye. Asimimos, y como se ha mencionado previamente, el correo también muestra en gran medida la interacción del usuario con la narrativa propuesta puesto que el primero de estos puede mandar historias o escribir correos desde la página.
 
 
 ### Conclusiones y trabajo futuro
