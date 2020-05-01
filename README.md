@@ -56,7 +56,7 @@ El proyecto muestra lo importante que es coincidir en los que pensamos, sentimos
 
 **Motivación de la propuesta** El aislamiento puede dar realidades muy distintas, y no ser consciente de ellas también es nocivo. Es importante que una situación, como la del confinamiento por el Covid19, que va a atener trascendencia en épocas posteriores, se puede ver desde una perspectiva que represente a todos y no sólo a unos pocos.
 
-**Personas/Usuarios** El público objetivo es bastante amplio, ya que es un suceso mundial. Podría decirse que el usuario al que va dirigido a las generaciones mas cercanas a la tecnología puesto que se necits un mínimo de conocimiento tecnoñógico para poder acceder al proyecto.
+**Personas/Usuarios** El público objetivo es bastante amplio, ya que es un suceso mundial. Podría decirse que el usuario al que va dirigido a las generaciones mas cercanas a la tecnología puesto que se necesita un mínimo de conocimiento tecnológico para poder acceder al proyecto.
 
 
 **Estilo de narración** La narrativa literaria sería publicada en Wix y Twitter, toma forma a través de la fotografía 360. La identificacion de la escena se lleva a cabo a través de la geolocalización, añadiendo contenido con el que se puede interectuar con puntos calientes de hiper-enlace y música bidireccional. Además, se busca que el usuario pueda aportar información sobre su experiencia para que, posteriormente, pueda pasar a fomar parte como un nuevo relato de confinamiento.
@@ -73,27 +73,27 @@ Todas las ilustraciones utilizadas en este proyecto han sido cogidas de https://
 
 * redes sociales. La red utilizada ha sido twitter puesto que es un medio que dispone de las herramientas y visbilización necesaria para publicar una narrativa literaria de este estilo. Mediante un hilo el usuario puede tanto ver y disfutar de las hitorias como participar e interaccionar con ellas bajo los hashtags #NoRomantizoLaCuarentena #NoEncuentroLaLuz. https://twitter.com/no_paredes
 
-Tanto la pestaña de "tu historia" que pertenece a la página web como la página oficial de Twitter están relaciadas para que el usuario pueda ver que la narrativa se lleva a cabo en ambos espacios. Además la página web puede ser vista desde el ordenador y desde el dispositivo móvil. De este modo, se facilita al usuario la búsqueda de la narrativa, así como se enriquece el posicionamiento SEP de la página web.
+Tanto la pestaña de "tu historia" que pertenece a la página web como la página oficial de Twitter están relacionadas para que el usuario pueda ver que la narrativa se lleva a cabo en ambos espacios. Además la página web puede ser vista desde el ordenador y desde el dispositivo móvil. De este modo, se facilita al usuario la búsqueda de la narrativa, así como se enriquece el posicionamiento SEO de la página web.
 Además, a través del correo de noencuentroluzenlasparedes@outlook.es, también se recibe información de los usuarios.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-Por un lado la página web, pese que en este caso tiene un formato simple y asequible, por lo que el portal no ofrece un análisis en profundidad de la reacción que está teniendo el usuario, esta ofrece elementos en los que se puede ver si al usuario le ha gustado la narrativa, que opina sobre esta y si le ha gustando lo suficiente como para compartirla. Del mismo modo, Twitter facilita que se pueda medir el tipo de recibimiento que está teniendo para los usuarios y como este incrementa o por el contrario disminuye. Asimimos, y como se ha mencionado previamente, el correo también muestra en gran medida la interacción del usuario con la narrativa propuesta puesto que el primero de estos puede mandar historias o escribir correos desde la página.
+Por un lado la página web, pese que en este caso tiene un formato simple y asequible, por lo que el portal no ofrece un análisis en profundidad de la reacción que está teniendo el usuario, esta ofrece elementos en los que se puede ver si al usuario le ha gustado la narrativa, que opina sobre esta y si le ha gustando lo suficiente como para compartirla. Del mismo modo, Twitter facilita que se pueda medir el tipo de recibimiento que está teniendo para los usuarios y como este incrementa o por el contrario disminuye. Asimismo, y como se ha mencionado previamente, el correo también muestra en gran medida la interacción del usuario con la narrativa propuesta puesto que el primero de estos puede mandar historias o escribir correos desde la página.
 
 
 ### Conclusiones y trabajo futuro
 
 
 * Problemas identificados 
-Principalmente, he econtrado dos problemas, por un lado, la fotografía 360, la cual, además de no poder reazliarla por la situación actual en la que nos encontramos, me ha parecido especialmente complicada al elegirla para este proyecto, ya que tendría que realizar una fotografía 360 por cada relato, por lo que habría qu encontrar cuatro casas distintas que pudiesen fotografiarse y arreglarse para que la indumentaria de la casa fuese acorde al relato que se le asocie. Por otro lado, la elaboración de la página web, esta es demasiado sencilla como para poder llamar la atención por sí misma, además me hubiese gustado poder elaborar unas ilustraciones, que de algún modo, representasen con mayor fidelidad la historia que se intenta contar y lo que hay detrás de esta historia y situación. Sin embargo, debido al tiempo y a mis conocimientos, esto no ha sido posible.
+Principalmente, he econtrado dos problemas, por un lado, la fotografía 360, la cual, además de no poder realizarla por la situación actual en la que nos encontramos, me ha parecido especialmente complicada al elegirla para este proyecto, ya que tendría que realizar una fotografía 360 por cada relato, por lo que habría qu encontrar cuatro casas distintas que pudiesen fotografiarse y arreglarse para que la indumentaria de la casa fuese acorde al relato que se le asocie. Por otro lado, la elaboración de la página web, esta es demasiado sencilla como para poder llamar la atención por sí misma, además me hubiese gustado poder elaborar unas ilustraciones, que de algún modo, representasen con mayor fidelidad la historia que se intenta contar y lo que hay detrás de esta historia y situación. Sin embargo, debido al tiempo y a mis conocimientos, esto no ha sido posible.
 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 
-Como prouestas de mejora estbalcería el hecho de poder tener unas ilustraciones propias y representativas del poryecto, así como tener presencia en medios masificados como Instagram. Además, tendrías que realizarse las fotografías 360 mencionadas
+Como prouestas de mejora establecería el hecho de poder tener unas ilustraciones propias y representativas del proyecto, así como tener presencia en medios masificados como Instagram. Además, tendría que realizarse las fotografías 360 mencionadas
 
-Pese a ello, considero que lo que se entiente esctritamebte por contenido del proyecto es abarcable y viable, además de que cumple con un objetivo tan fundamental como vsibilizar aquellas realidades que normativamente no son mostradas, indepedientemente de que este tipo de realidades sean más cercanas a un ciudadano corriente que la realidad que abraza un futbolista o similares.
+Pese a ello, considero que lo que se entiente estrictamente por contenido del proyecto es abarcable y viable, además de que cumple con un objetivo tan fundamental como vsibilizar aquellas realidades que normativamente no son mostradas, indepedientemente de que este tipo de realidades sean más cercanas a un ciudadano corriente que la realidad que abraza un futbolista o similares.
 
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
